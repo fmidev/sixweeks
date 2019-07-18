@@ -8,7 +8,7 @@ Data of Fig. 1: annual mean CRPSS and its p-value for forecast weeks 1-6 for the
 and the mean bias-corrected (BC) surface mean temperature forecast.
 
 Korhonen_et_al_Figure2Data_columns.txt
-Data of Fig. 2: observed minimum daily AO indes 1-2, 3-4, and 5-6 weeks after different stratospheric situations.
+Data of Fig. 2: observed minimum daily AO indexes 1-2, 3-4, and 5-6 weeks after different stratospheric situations.
 
 Korhonen_et_al_Figure4a_fData.nc
 Data of Fig. 4a-f:
